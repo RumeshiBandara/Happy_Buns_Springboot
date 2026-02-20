@@ -56,7 +56,3 @@ This structure ensures scalability, maintainability, and separation of concerns.
 🎯 Project Purpose
 
 This project was developed to gain hands-on experience in building full-stack applications, implementing CRUD operations, designing REST APIs, and applying layered architecture principles using Spring Boot and Angular.
-
-🔹 Short GitHub Description (for repo top line)
-
-Full-stack POS system built with Angular and Spring Boot using JPA and layered architecture, supporting complete CRUD operations and RESTful API integration.
